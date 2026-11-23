@@ -1,0 +1,7 @@
+/build/
+/paisa-ledger
+/paisa-ledger.exe
+__pycache__/
+# Keep personal spending records out of Git. Only the fictional fixture is tracked.
+*.csv
+!examples/transactions.csv
